@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "cf-worker-search",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "87554163-0d3c-4d9b-b91c-cc413092b556",
+      "database_name": "proud-rice-d153-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
